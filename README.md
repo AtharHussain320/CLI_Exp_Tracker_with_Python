@@ -66,6 +66,5 @@ No external packages are required.
 
 ---
 
-├── expense_tracker.py
 ├── expenses.json
 └── README.md# CLI_Exp_Tracker_with_Python
