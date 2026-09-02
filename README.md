@@ -1,4 +1,4 @@
-# 💰 CLI Expense Tracker
+#  CLI Expense Tracker
 
 **Aptura Tech Solution — Batch 3 Internship | Week 2 | Task 1**
 
@@ -8,7 +8,7 @@ data storage, and useful expense summaries.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Managing small daily expenses can become difficult when records are scattered
 across different places.
@@ -21,21 +21,21 @@ available even after the program is closed.
 
 ---
 
-## ✨ Features
+##  Features
 
-- ➕ Add new expenses
-- 📋 View complete expense history
-- 🔎 Search expenses by description
-- 🏷️ Filter expenses by category
-- 📅 Calculate monthly spending
-- 📊 Generate category-wise spending summary
-- 💾 Persistent JSON storage
-- 🛡️ Input validation
-- ⚠️ Handles missing and corrupted JSON files
+-  Add new expenses
+-  View complete expense history
+-  Search expenses by description
+-  Filter expenses by category
+-  Calculate monthly spending
+-  Generate category-wise spending summary
+-  Persistent JSON storage
+-  Input validation
+-  Handles missing and corrupted JSON files
 
 ---
 
-## 🗂️ Expense Categories
+##  Expense Categories
 
 The application includes:
 
@@ -50,7 +50,7 @@ The application includes:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - JSON
